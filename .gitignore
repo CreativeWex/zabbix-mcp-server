@@ -1,3 +1,7 @@
+# IDE project files
+.idea/
+*.iml
+
 # Byte-compiled / optimized / DLL files
 zabbix-mcp-server/__pycache__/
 zabbix-mcp-server/*.py[cod]
