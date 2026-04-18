@@ -1,0 +1,163 @@
+# Byte-compiled / optimized / DLL files
+zabbix-mcp-server/__pycache__/
+zabbix-mcp-server/*.py[cod]
+zabbix-mcp-server/*$py.class
+
+# C extensions
+zabbix-mcp-server/*.so
+
+# Distribution / packaging
+zabbix-mcp-server/.Python
+zabbix-mcp-server/build/
+zabbix-mcp-server/develop-eggs/
+zabbix-mcp-server/dist/
+zabbix-mcp-server/downloads/
+zabbix-mcp-server/eggs/
+zabbix-mcp-server/.eggs/
+zabbix-mcp-server/lib/
+zabbix-mcp-server/lib64/
+zabbix-mcp-server/parts/
+zabbix-mcp-server/sdist/
+zabbix-mcp-server/var/
+zabbix-mcp-server/wheels/
+zabbix-mcp-server/share/python-wheels/
+zabbix-mcp-server/*.egg-info/
+zabbix-mcp-server/.installed.cfg
+zabbix-mcp-server/*.egg
+zabbix-mcp-server/MANIFEST
+
+# PyInstaller
+zabbix-mcp-server/*.manifest
+zabbix-mcp-server/*.spec
+
+# Installer logs
+zabbix-mcp-server/pip-log.txt
+zabbix-mcp-server/pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+zabbix-mcp-server/htmlcov/
+zabbix-mcp-server/.tox/
+zabbix-mcp-server/.nox/
+zabbix-mcp-server/.coverage
+zabbix-mcp-server/.coverage.*
+zabbix-mcp-server/.cache
+zabbix-mcp-server/nosetests.xml
+zabbix-mcp-server/coverage.xml
+zabbix-mcp-server/*.cover
+zabbix-mcp-server/*.py,cover
+zabbix-mcp-server/.hypothesis/
+zabbix-mcp-server/.pytest_cache/
+zabbix-mcp-server/cover/
+
+# Translations
+zabbix-mcp-server/*.mo
+zabbix-mcp-server/*.pot
+
+# Django stuff
+zabbix-mcp-server/*.log
+zabbix-mcp-server/local_settings.py
+zabbix-mcp-server/db.sqlite3
+zabbix-mcp-server/db.sqlite3-journal
+
+# Flask stuff
+zabbix-mcp-server/instance/
+zabbix-mcp-server/.webassets-cache
+
+# Scrapy stuff
+zabbix-mcp-server/.scrapy
+
+# Sphinx documentation
+zabbix-mcp-server/docs/_build/
+
+# PyBuilder
+zabbix-mcp-server/.pybuilder/
+zabbix-mcp-server/target/
+
+# Jupyter Notebook
+zabbix-mcp-server/.ipynb_checkpoints
+
+# IPython
+zabbix-mcp-server/profile_default/
+zabbix-mcp-server/ipython_config.py
+
+# pyenv
+zabbix-mcp-server/.python-version
+
+# pipenv
+zabbix-mcp-server/Pipfile.lock
+
+# poetry
+zabbix-mcp-server/poetry.lock
+
+# pdm
+zabbix-mcp-server/.pdm.toml
+
+# PEP 582
+zabbix-mcp-server/__pypackages__/
+
+# Celery stuff
+zabbix-mcp-server/celerybeat-schedule
+zabbix-mcp-server/celerybeat.pid
+
+# SageMath parsed files
+zabbix-mcp-server/*.sage.py
+
+# Environments
+zabbix-mcp-server/.env
+zabbix-mcp-server/.venv
+zabbix-mcp-server/env/
+zabbix-mcp-server/venv/
+zabbix-mcp-server/ENV/
+zabbix-mcp-server/env.bak/
+zabbix-mcp-server/venv.bak/
+
+# Spyder project settings
+zabbix-mcp-server/.spyderproject
+zabbix-mcp-server/.spyproject
+
+# Rope project settings
+zabbix-mcp-server/.ropeproject
+
+# mkdocs documentation
+zabbix-mcp-server/site
+
+# mypy
+zabbix-mcp-server/.mypy_cache/
+zabbix-mcp-server/.dmypy.json
+zabbix-mcp-server/dmypy.json
+
+# Pyre type checker
+zabbix-mcp-server/.pyre/
+
+# pytype static type analyzer
+zabbix-mcp-server/.pytype/
+
+# Cython debug symbols
+zabbix-mcp-server/cython_debug/
+
+# Ruff cache
+zabbix-mcp-server/.ruff_cache/
+
+# VS Code
+zabbix-mcp-server/.vscode/
+
+# PyCharm
+zabbix-mcp-server/.idea/
+zabbix-mcp-server/*.iml
+
+# Sublime Text
+zabbix-mcp-server/*.sublime-project
+zabbix-mcp-server/*.sublime-workspace
+
+# Vim
+zabbix-mcp-server/*.swp
+zabbix-mcp-server/*.swo
+zabbix-mcp-server/*~
+
+# macOS
+zabbix-mcp-server/.DS_Store
+
+# Windows
+zabbix-mcp-server/Thumbs.db
+zabbix-mcp-server/ehthumbs.db
+zabbix-mcp-server/Desktop.ini
